@@ -1,46 +1,91 @@
-<h1 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">A passionate developer from India 🚀</h3>
+<!-- Title and Typing Effect -->
+<h1 align="center">Hi there, I'm Aswin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=Full-stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <a href="https://github.com/aswin-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=SAP+Intern+%7C+Full-stack+Developer;Loves+clean+UI/UX+%26+automation;Always+learning+new+techs+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,figma" />
+### 👨‍💻 About Me
+
+```bash
+> whoami
+"Passionate full-stack dev | SAP Intern | Loves building useful things"
+```
+
+- 🌱 Currently diving into **SAP ERP**, **ABAP**, **Node.js**, and **React**
+- 🧠 Exploring enterprise systems, clean UI/UX, and automation
+- 🛠️ Building: **ClubX – College Club Event Manager**
+- ⚡ Fun fact: I explain complex dev concepts using memes 😄
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
-### 🛠️ Projects
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,git,github,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswin-dev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-dev&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-dev&theme=react-dark" />
+</p>
+
+---
+
+### 💡 Projects Showcase
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| **ClubX** | College club event management app with registrations, posts, notifications | React, Firebase, Tailwind |
-| **PathFinder** | Visual pathfinding algorithm simulator | JS, Canvas |
-| **DevVault** | Portfolio generator for developers | Next.js, Notion API |
+| **ClubX** | College club app for events & registrations | React, Firebase, Tailwind |
+| **PathFinder** | Pathfinding visualizer for algorithms | JS, HTML Canvas |
+| **DevVault** | Generate developer portfolios via Notion | Next.js, Notion API |
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150"/>
-</p>
-
----
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-</p>
-
----
+### 🎵 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-bg=true&margin-w=15" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" />
 </p>
 
+---
+
+### 🧠 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aswin-dev&label=Visitors&color=brightgreen" />
+</p>
